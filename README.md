@@ -405,6 +405,4 @@ A production implementation should use a modern password hashing algorithm such 
 
 ## Author
 
-**Brahim Haddad**
-
 Holberton School — Backend project
